@@ -1,0 +1,7 @@
+<!-- res/drawable/toggle_selector.xml -->
+<!-- res/drawable/toggle_selector.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="true" android:drawable="@color/secondary"  />
+    <item android:drawable="@color/blue_light" />
+</selector>
